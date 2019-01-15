@@ -6,7 +6,7 @@
  ====================================*/
 
 
-$color1: #ffb320;
+$color1: #c9152a;
 $color2: #131313;
 
 /*----------------------------------------*/
@@ -118,7 +118,7 @@ ol {
 
 .rating {
   i{
-    color: #fbb710;
+    color: #c9152a;
   }
   .is-fade {
     color: #e0e3e4;
@@ -253,6 +253,8 @@ ol {
   display: inline-block;
   float: left;
   padding-top: 6px;
+  height:50px;
+  width: 50px;
 }
 
 .user-panel {
@@ -571,7 +573,7 @@ ol {
   font-weight: 500;
   color: #fff;
   text-transform: uppercase;
-  background: #fb6e10;
+  background: #c9152a;
 }
 .tournament-item {
   background: #252525;
