@@ -245,15 +245,13 @@ ol {
   display: inline-block;
   float: left;
   padding-top: 6px;
-  height: 50px;
-  width: 50px;
 }
 
 .user-panel {
   float: right;
   font-weight: 500;
   background: #c9152a;
-  padding: 8px 28px;
+  padding: 8px 20px;
   border-radius: 30px;
 }
 
@@ -263,8 +261,9 @@ ol {
 }
 
 .main-menu {
+  padding-top: 15px;
   float: right;
-  margin-right: 170px;
+  width: 800px;
 }
 
 .main-menu ul {
